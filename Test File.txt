@@ -1,3 +1,5 @@
 Your file contents go here. Thanks.
 
 Adding one more line.
+
+Directly editing from GUI
