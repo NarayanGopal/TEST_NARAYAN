@@ -4,6 +4,7 @@ B
 C
 D -- Start this line
 E
+<<<<<<< HEAD
 F
 G -- This another segment
 H
@@ -11,3 +12,6 @@ I
 =======
 C
 >>>>>>> parent of 410ec7f... Om namaha shivaaya
+=======
+F
+>>>>>>> parent of 1d972ea... Yes Yes Yes
