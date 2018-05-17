@@ -4,3 +4,6 @@ C
 D -- Start this line
 E
 F
+G -- This another segment
+H
+I
